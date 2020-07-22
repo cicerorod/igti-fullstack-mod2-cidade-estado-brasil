@@ -1,8 +1,8 @@
-# Manupulação de arquivo Json com Cidades e estados brasileiros         ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+# Manupulação de arquivo Json com Cidades e estados         ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
 Manipulação de arquivos Json de Cidade e Estados Brasileiros desenvolvido no bootcamp fullstack da IGTI
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Insomnia
+## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Console
 
 <p align="center">
   <img src="https://github.com/cicerorod/igti-fullstack-mod2-cidade-estado-brasil/blob/master/img/tela.PNG">
