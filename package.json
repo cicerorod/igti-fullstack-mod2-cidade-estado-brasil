@@ -4,9 +4,10 @@
   "description": "trabalho pratico do segundo modulo",
   "main": "s",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
-  "author": "cicero",
+  "author": "Cícero Rodrigues",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
