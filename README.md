@@ -15,10 +15,10 @@ Manipulação de arquivos Json de Cidade e Estados Brasileiros desenvolvido no b
 
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
-1. Clonar o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod2-cidade-estado-brasil.git`
-2. Acessar a pasta principal do projeto via prompt de comando;
-3. Executar o comando `yarn` para baixar as dependências;
-4. Executar o comando `yarn start`
+1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod2-cidade-estado-brasil.git`
+2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd igti-fullstack-mod2-cidade-estado-brasil`;
+3. Executar o comando `yarn` para baixar as dependências. Ex: `yarn`;
+4. Executar o comando `yarn start`. Ex: `yarn start`
 
 ##### Retorno:
 Retornar no console o resultado dos métodos
